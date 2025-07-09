@@ -26,6 +26,8 @@ Special Conventions: [ANY_PROJECT_SPECIFIC_CONVENTIONS]
 
 ```
 [PASTE_PREVIOUS_COMMITS_HERE_WHEN_STARTING_NEW_CHAT]
+git log --pretty=format:"%ad%n%B%n----------------------" > commit_log.txt
+
 ```
 
 ## Changes Made
